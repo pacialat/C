@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/ITS Kennedy/Secondo anno/C C++/Esercizi/eserciziMatrice/creazioneMatrice.cpp
+cstdlib
+-
+time.h
+-
+iostream
+-
+
+E:/ITS Kennedy/Secondo anno/C C++/Esercizi/eserciziMatrice/es1.cpp
+iostream
+-
+
+E:/ITS Kennedy/Secondo anno/C C++/Esercizi/eserciziMatrice/es1P2.cpp
+iostream
+-
+
+E:/ITS Kennedy/Secondo anno/C C++/Esercizi/eserciziMatrice/es1P3.cpp
+iostream
+-
+
+E:/ITS Kennedy/Secondo anno/C C++/Esercizi/eserciziMatrice/es2.cpp
+iostream
+-
+
+E:/ITS Kennedy/Secondo anno/C C++/Esercizi/eserciziMatrice/es2P2.cpp
+iostream
+-
+
+E:/ITS Kennedy/Secondo anno/C C++/Esercizi/eserciziMatrice/es2P3.cpp
+iostream
+-
+fstream
+-
+
+E:/ITS Kennedy/Secondo anno/C C++/Esercizi/eserciziMatrice/es3.cpp
+iostream
+-
+
+E:/ITS Kennedy/Secondo anno/C C++/Esercizi/eserciziMatrice/es3P2.cpp
+iostream
+-
+
+E:/ITS Kennedy/Secondo anno/C C++/Esercizi/eserciziMatrice/es4P2.cpp
+iostream
+-
+
+E:/ITS Kennedy/Secondo anno/C C++/Esercizi/eserciziMatrice/main.cpp
+iostream
+-
+
